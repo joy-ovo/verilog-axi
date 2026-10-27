@@ -1,6 +1,6 @@
 # verilog-axi 学习仓库
 
-本仓库用于学习，上游项目为 [alexforencich/verilog-axi](https://github.com/alexforencich/verilog-axi)。
+本仓库用于学习，上游项目为 [alexforencich/verilog-axi](https://github.com/alexforencich/verilog-axi)。原作者已停止更新
 
 学习入口：[系统学习路线](LEARNING_ROADMAP.md)。
 
