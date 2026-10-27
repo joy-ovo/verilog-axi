@@ -1,3 +1,11 @@
+# verilog-axi 学习仓库
+
+本仓库用于学习，上游项目为 [alexforencich/verilog-axi](https://github.com/alexforencich/verilog-axi)。
+
+学习入口：[系统学习路线](LEARNING_ROADMAP.md)。
+
+以下保留上游项目说明。
+
 # Verilog AXI Components Readme
 
 [![Build Status](https://github.com/alexforencich/verilog-axi/workflows/Regression%20Tests/badge.svg?branch=master)](https://github.com/alexforencich/verilog-axi/actions/)
